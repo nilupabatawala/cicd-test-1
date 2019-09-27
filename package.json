@@ -1,0 +1,19 @@
+{
+  "name": "cicd-test-1",
+  "version": "1.0.0",
+  "description": "cicd-test-1",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilupabatawala/cicd-test-1.git"
+  },
+  "author": "Nilupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilupabatawala/cicd-test-1/issues"
+  },
+  "homepage": "https://github.com/nilupabatawala/cicd-test-1#readme"
+}
