@@ -4,7 +4,6 @@ pipeline {
             label 'jenkins-agent' }
   }
     
-  #tools {nodejs "node"}
     
   stages {
         
