@@ -1,7 +1,10 @@
 pipeline {
-  agent any
+  agent {
+  docker {  image 'node:16-alpine'
+            label 'jenkins-agent' }
+  }
     
-  tools {nodejs "node"}
+  #tools {nodejs "node"}
     
   stages {
         
